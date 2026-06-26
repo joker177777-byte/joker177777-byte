@@ -1,37 +1,40 @@
-# Hi, I'm Joker 👋
+# Hi, I'm Dmitry 👋
 
-Python automation engineer building Telegram bots, presentation tools, and infrastructure utilities with a focus on clean code, security, and reliable delivery.
+Automation engineer and IT specialist building Telegram bots, CRM automation, infrastructure tools, and presentation systems.
 
 ## My path in IT
 
-I started with automation scripts and support tools, then grew into building Telegram bots, backend services, and presentation workflows. Today I combine Python, messaging automation, and deployment practices to deliver practical solutions that work in production.
+I started in a family business where I combined operations, logistics, and customer support with office IT maintenance. Later I joined a real estate agency as a System Administrator, managing servers, virtual machines, network equipment, CRM systems, monitoring, and automation.
 
-- Telegram bots and automation for onboarding, notifications, and chat workflows
-- Backend integration with MySQL, remote services, and secure environment-driven configs
-- Presentation generation and sync utilities for HTML publishing and managed content
-- Continuous improvement through documentation, reusable patterns, and secure defaults
+Over the years my work expanded across several directions:
+
+- Automation — Telegram bots, workflow scripts, lead processing, notifications
+- Infrastructure — VMware, Windows/Linux servers, networking, hardware support
+- CRM & integrations — Bitrix24, AmoCRM, JokerCRM, API services
+- Data & publishing — MySQL, XML exports, presentation and content sync tools
+- Monitoring — Zabbix, infrastructure reliability, system support
 
 ## What I work with
 
 | Area | Tools |
 |---|---|
-| Automation | Python, aiogram, aiomysql, scripts |
-| Bots | Telegram, bot APIs, contact sharing |
-| Data | MySQL, SQL, structured workflows |
-| Web & UI | HTML, presentation generation, server automation |
-| DevOps | Git, environment variables, secure deployment |
-| Practices | clean code, credential sanitization, docs |
+| Automation | Python, aiogram, aiomysql, shell scripts |
+| Bots | Telegram API, bot automation, contact sharing |
+| Infrastructure | VMware, Windows, Linux, routers, switches, Wi-Fi |
+| CRM & Integrations | Bitrix24, AmoCRM, JokerCRM, API services |
+| Data | MySQL, XML, listing exports, structured workflows |
+| Monitoring | Zabbix, system reliability |
 
 ## Featured projects
 
 | Project | Tech | Description |
 |---|---|---|
-| `welcome-bot` | Python, aiogram, MySQL | Telegram welcome bot with contact-based authentication and database lookup |
-| `presentations-sync` | Python | Presentation HTML generator and sync tool for remote publishing |
-| `profile` | GitHub README | Profile presentation repository with polished portfolio and open-source practice |
+| `welcomebot_from_vm` | Python, aiogram, MySQL | Telegram welcome bot with contact-based system lookup and verification |
+| `welcomebot_full_from_vm` | Python, aiogram, MySQL | Full Telegram onboarding bot with database integration and secure env configuration |
+| `presentations-sync` | Python | Presentation HTML generator and remote sync utility |
 
 ## Open to
 
-Remote or hybrid collaboration on automation, Telegram bots, backend services, and practical tooling.
+Remote or hybrid collaboration on automation, Telegram bots, backend services, CRM integrations, and IT infrastructure projects.
 
 > Portfolio repositories contain source code only. No credentials or client data included.
